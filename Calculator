@@ -45,6 +45,9 @@ HTML code:-
         </div>
     </form>
         </div>
+    </div>
+</body>
+</html>
 
 CSS Code:- 
 
@@ -95,6 +98,3 @@ form input.equal{
     width: 145px;
 }
 
-    </div>
-</body>
-</html>
